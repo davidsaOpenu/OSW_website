@@ -16,7 +16,7 @@ baseurl:  # the subpath of your site, e.g. /blog/
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: cmudeeprl
+github_username: davidsaOpenu 
 google_analytics:
 youtube_channel:
 rss:  # notes rss
